@@ -20,8 +20,8 @@
           "title": "Publishing date",
           "name": "date",
           "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "isPublishDate": true,
+          "dateFormat": "yyyy-MM-dd"
         },
         {
           "title": "Content preview",
